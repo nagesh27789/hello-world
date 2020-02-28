@@ -4,5 +4,5 @@
 <h2> Deploying on VM </h2>
 <h2> Testing </h2>
 <h2> Testing on VM <h2>
-<h2> Deploying on container using ansible-playbook....<h2>
+<h2> Deploying on container using ansible-playbook......<h2>
 
