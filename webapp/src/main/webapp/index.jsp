@@ -6,4 +6,4 @@
 <h2> Testing on VM <h2>
 <h2> Deploying on container using ansible-playbook......<h2>
 <h2> Automatically deployment for git modifed code using ansible playbook!!! <h2>
-
+<h2> Testing on 04.03.2020 after dockerhub pull/push concept !!!!....<h2>
